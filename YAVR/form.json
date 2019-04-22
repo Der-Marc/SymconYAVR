@@ -30,7 +30,7 @@
       "name": "UpdateInterval",
       "type": "IntervalBox",
       "caption": "Sekunden"
-    },
+    }
 
   ],
   "actions": [{
